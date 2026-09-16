@@ -35,26 +35,52 @@
 
 ---
 
-### 🔴 About Me
+<h2 align="center">🔴 About Me</h2>
 
-<table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." alt="Typing Quote" />
+</p>
+
+<table width="100%" border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
+      <h3>⚡ Engineering Profile</h3>
       <p>
-        I'm a <b>Computer Science Engineering student & developer</b> from India, passionate about architecting scalable systems and turning creative ideas into robust production software. My focus spans full-stack web platforms, machine learning pipelines, and IoT hardware integrations.
+        Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India. I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
       </p>
-      <ul>
-        <li>🔭 <b>Flagship Project:</b> Engineering <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Mastitis Monitor</b></a></li>
-        <li>🌱 <b>Current Deep Dives:</b> <code>DSA</code>, <code>React Ecosystem</code>, <code>Spring Boot</code>, <code>AI/ML</code> & <code>System Design</code></li>
-        <li>👯 <b>Open for Collaboration:</b> Full-Stack Web Development, AI/ML models, and IoT innovations</li>
-        <li>📝 <b>Tech Content Creator:</b> Authoring articles & tech breakdowns on <a href="https://instagram.com/techwin.in" target="_blank"><b>@techwin.in</b></a></li>
-        <li>💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git</li>
-        <li>📫 <b>Direct Contact:</b> <a href="mailto:deepakamalwinstarj@gmail.com"><code>deepakamalwinstarj@gmail.com</code></a></li>
-        <li>⚡ <b>Fun Fact:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i></li>
-      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square&logoColor=red" alt="Status" />
+        <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+        <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+      </p>
+      <p>
+        💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+        ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
+      </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="25%" align="center" style="padding: 12px;">
+      <h4>🔭 Flagship Project</h4>
+      <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
+    </td>
+    <td width="25%" align="center" style="padding: 12px;">
+      <h4>🌱 Active Deep Dives</h4>
+      <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+    </td>
+    <td width="25%" align="center" style="padding: 12px;">
+      <h4>📱 Tech Creator</h4>
+      <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+    </td>
+    <td width="25%" align="center" style="padding: 12px;">
+      <h4>🤝 Collaboration</h4>
+      <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
     </td>
   </tr>
 </table>
@@ -80,6 +106,28 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+
+<div align="center">
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Live Stats Card" />
+  </a>
+  <br /><br />
+  <p>
+    <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+      <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -155,6 +203,51 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- LinkedIn -->
+      <td align="center" width="220" style="padding: 16px;">
+        <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+        </a>
+        <br />
+        <sub><b>Professional Network</b></sub>
+      </td>
+
+      <!-- Instagram -->
+      <td align="center" width="220" style="padding: 16px;">
+        <a href="https://www.instagram.com/techwin.in/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+        </a>
+        <br />
+        <sub><b>Articles &amp; Tech Guides</b></sub>
+      </td>
+
+      <!-- Email -->
+      <td align="center" width="220" style="padding: 16px;">
+        <a href="mailto:deepakamalwinstarj@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+        </a>
+        <br />
+        <sub><b>Direct Collaboration</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Footer" />
